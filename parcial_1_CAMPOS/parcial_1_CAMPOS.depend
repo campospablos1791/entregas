@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1493490250 source:d:\parcial_1_campos\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493943397 d:\parcial_1_campos\cargayedicion.h
+
+1493943363 source:d:\parcial_1_campos\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+
+1493490338 d:\parcial_1_campos\validaciones.h
+
+1493490186 d:\parcial_1_campos\estructuras.h
+
+1493945149 source:d:\parcial_1_campos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"estructuras.h"
+

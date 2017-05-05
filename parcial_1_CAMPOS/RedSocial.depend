@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1493492338 source:e:\facu\redsocial\redsocial\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+
+1493490336 e:\facu\redsocial\redsocial\validaciones.h
+
+1493490185 e:\facu\redsocial\redsocial\estructuras.h
+
+1493490248 source:e:\facu\redsocial\redsocial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493492455 source:e:\facu\redsocial\redsocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"estructuras.h"
+
+1493491778 e:\facu\redsocial\redsocial\cargayedicion.h
+
+1493503583 source:c:\users\pablo\desktop\redsocial\redsocial\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+
+1493490338 c:\users\pablo\desktop\redsocial\redsocial\validaciones.h
+
+1493490186 c:\users\pablo\desktop\redsocial\redsocial\estructuras.h
+
+1493503594 c:\users\pablo\desktop\redsocial\redsocial\cargayedicion.h
+
+1493503909 source:c:\users\pablo\desktop\redsocial\redsocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"estructuras.h"
+
+1493490250 source:c:\users\pablo\desktop\redsocial\redsocial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493662197 source:c:\users\pablo\desktop\practicas\redsocial\redsocial\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+
+1493490338 c:\users\pablo\desktop\practicas\redsocial\redsocial\validaciones.h
+
+1493490186 c:\users\pablo\desktop\practicas\redsocial\redsocial\estructuras.h
+
+1493503594 c:\users\pablo\desktop\practicas\redsocial\redsocial\cargayedicion.h
+
+1493490250 source:c:\users\pablo\desktop\practicas\redsocial\redsocial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493867714 source:c:\users\pablo\desktop\practicas\redsocial\redsocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"estructuras.h"
+
