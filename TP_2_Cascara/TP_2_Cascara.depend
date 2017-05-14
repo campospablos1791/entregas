@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1492887087 source:c:\users\pb\desktop\tp_2_cascara\funciones.c
+
+1492891378 source:c:\users\pb\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1492891378 c:\users\pb\desktop\tp_2_cascara\funciones.h
+	<string.h>
+
+1492996766 source:f:\tp_2_cascara\funciones.c
+
+1493118644 source:f:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1493117248 f:\tp_2_cascara\funciones.h
+	<string.h>
+
+1493480679 source:c:\users\pablo\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493327284 c:\users\pablo\desktop\tp_2_cascara\funciones.h
+
+1493327304 source:c:\users\pablo\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493327304 source:c:\users\pablo\desktop\nueva carpeta (2)\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493327284 c:\users\pablo\desktop\nueva carpeta (2)\tp_2_cascara\funciones.h
+
+1493480679 source:c:\users\pablo\desktop\nueva carpeta (2)\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
