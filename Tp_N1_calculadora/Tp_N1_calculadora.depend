@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1491164720 source:c:\users\pablo\programacion-laboratorio_1\tp_n1_calculadora\funciones_calculadora.c
+
+1491164681 source:c:\users\pablo\programacion-laboratorio_1\tp_n1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_calculadora.h"
+	<conio.h>
+
+1491162411 c:\users\pablo\programacion-laboratorio_1\tp_n1_calculadora\funciones_calculadora.h
+
+1491511870 source:c:\utn\tp_laboratorio_1\tp_n1_calculadora\funciones_calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1491511079 source:c:\utn\tp_laboratorio_1\tp_n1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_calculadora.h"
+	<conio.h>
+
+1491508187 c:\utn\tp_laboratorio_1\tp_n1_calculadora\funciones_calculadora.h
+
+1491509327 source:c:\utn\tp_laboratorio_1\tp_n1_calculadora\validar_numero.c
+
+1491511870 source:c:\laboratorio-programacion_1_practicas\tp_laboratorio1\tp_n1_calculadora\funciones_calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1491511079 source:c:\laboratorio-programacion_1_practicas\tp_laboratorio1\tp_n1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_calculadora.h"
+	<conio.h>
+
+1491508187 c:\laboratorio-programacion_1_practicas\tp_laboratorio1\tp_n1_calculadora\funciones_calculadora.h
+
